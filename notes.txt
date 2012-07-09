@@ -1,6 +1,0 @@
-﻿changed set to save in view.saveItem
-added save in collectionView.insertitem
-
-next: get screen to pull from localstorage.
-
-tried having collectionview has fetch statement in it's initialize function which fetch's the collection instance 
